@@ -1,0 +1,10 @@
+.one {
+    width: 100px;
+    border: 20px groove blue;
+    box-sizing: border-box;
+}
+.two {
+    width: 100px;
+    border: 20px groove blue;
+    box-sizing: border-box;
+}
